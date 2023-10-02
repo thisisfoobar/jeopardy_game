@@ -20,7 +20,7 @@
 
 let categories = [];
 const count = 100;
-const baseURL = "http://jservice.io/api/";
+const baseURL = "https://jservice.io/api/";
 const NUM_CATEGORIES = 6;
 const NUM_CLUES_PER_CAT = 5;
 
