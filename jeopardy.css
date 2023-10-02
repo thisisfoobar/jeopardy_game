@@ -1,0 +1,15 @@
+td {
+    border-radius: 10px;
+    height: 100px;
+    font-size:small
+}
+
+th {
+    border-radius: 10px;
+}
+
+table {
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 10px;
+}

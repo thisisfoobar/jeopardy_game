@@ -120,7 +120,7 @@ function handleClick(evt) {
     return;
   }
   console.log(id, msg);
-  $(`#${id}`).text(msg);
+  $(`#${id}`).html(msg);
 }
 
 /** Wipe the current Jeopardy board, show the loading spinner,
